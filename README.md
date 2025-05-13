@@ -9,7 +9,7 @@
 As **Data Science Intern - Team Lead** for the Spring 2025 Internship class at [IDX Exchange](https://www.linkedin.com/company/idxexchange/posts/?feedView=all), I led a team in developing predictive models for real estate prices using California Regional Multiple Listing Service (CRMLS) data.
 
 ### 🚀 **Random Forest Modeling (Sole Ownership)**
-- **Developed end-to-end RF pipeline** from feature engineering to deployment, achieving **R²=0.89** on test data.  
+- **Developed end-to-end Random Forest (RF) pipeline** from feature engineering to deployment, achieving **R²=0.89** on test data.  
 - **Implemented K-Fold CV** (`n_splits=5`) to ensure robust performance estimates
 - **Delivered business-ready outputs**: Interpreted feature importance and created visualizations for stakeholders.
 
@@ -42,7 +42,7 @@ As **Data Science Intern - Team Lead** for the Spring 2025 Internship class at [
 
 ## Technical Stack
 - **Programming**: Python (Pandas, NumPy, Scikit-learn)
-- **Machine Learning**: Random Forest, Linear Regression, Gradient Boosting
+- **Machine Learning**: Random Forest, XGBoost, Gradient Boosting, LASSO Regression
 - **Visualization**: Matplotlib, Seaborn, Plotly
 - **Tools**: Jupyter Notebooks, Git, Google Colab
 
